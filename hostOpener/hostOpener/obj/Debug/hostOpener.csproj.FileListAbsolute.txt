@@ -1,0 +1,7 @@
+c:\users\aarel\source\repos\hostOpener\hostOpener\obj\Debug\hostOpener.csprojResolveAssemblyReference.cache
+c:\users\aarel\source\repos\hostOpener\hostOpener\obj\Debug\hostOpener.csproj.CoreCompileInputs.cache
+c:\users\aarel\source\repos\hostOpener\hostOpener\bin\Debug\hostOpener.exe.config
+c:\users\aarel\source\repos\hostOpener\hostOpener\bin\Debug\hostOpener.exe
+c:\users\aarel\source\repos\hostOpener\hostOpener\bin\Debug\hostOpener.pdb
+c:\users\aarel\source\repos\hostOpener\hostOpener\obj\Debug\hostOpener.exe
+c:\users\aarel\source\repos\hostOpener\hostOpener\obj\Debug\hostOpener.pdb
