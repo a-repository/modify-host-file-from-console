@@ -5,3 +5,10 @@ c:\users\aarel\source\repos\hostOpener\hostOpener\bin\Debug\hostOpener.exe
 c:\users\aarel\source\repos\hostOpener\hostOpener\bin\Debug\hostOpener.pdb
 c:\users\aarel\source\repos\hostOpener\hostOpener\obj\Debug\hostOpener.exe
 c:\users\aarel\source\repos\hostOpener\hostOpener\obj\Debug\hostOpener.pdb
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\bin\Debug\hostOpener.exe.config
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\bin\Debug\hostOpener.exe
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\bin\Debug\hostOpener.pdb
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\obj\Debug\hostOpener.csprojAssemblyReference.cache
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\obj\Debug\hostOpener.csproj.CoreCompileInputs.cache
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\obj\Debug\hostOpener.exe
+D:\www\modify-host-file-from-console\hostOpener\hostOpener\obj\Debug\hostOpener.pdb

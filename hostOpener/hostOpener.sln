@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hostOpener", "hostOpener\hostOpener.csproj", "{3D32E365-E37E-490F-B448-617E0F46A710}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostOpener", "hostOpener\HostOpener.csproj", "{3D32E365-E37E-490F-B448-617E0F46A710}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

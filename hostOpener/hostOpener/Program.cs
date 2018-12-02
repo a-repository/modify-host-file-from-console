@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hostOpener
+namespace HostOpener
 {
     class Program
     {
@@ -8,9 +8,9 @@ namespace hostOpener
         {
             Console.WriteLine("Enter host:");
             string hosts = Console.ReadLine();
-            if (accessHosts.modifyHosts(hosts))
+            if (AccessHosts.ModifyHosts(hosts))
             {
-                Console.WriteLine("hosts file modified.");
+                Console.WriteLine("Hosts file modified.");
                 Console.ReadLine();
             }
         }

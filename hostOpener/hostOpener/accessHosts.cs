@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 
-namespace hostOpener
+namespace HostOpener
 {
-    public class accessHosts
+    public class AccessHosts
     {
-        public static bool modifyHosts(string host)
+        public static bool ModifyHosts(string host)
         {
             try
             {
